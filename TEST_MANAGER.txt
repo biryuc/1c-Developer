@@ -1,0 +1,1 @@
+/TESTMANAGER /N "Бирючков Никита" /P "" /Execute "C:\Users\Никита\Desktop\Учёба\1c\vanessa-automation-single.epf"
